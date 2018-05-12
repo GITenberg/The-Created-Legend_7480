@@ -1,5 +1,5 @@
 _repo: The-Created-Legend_7480
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Cournos, John
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '2482'
     url: http://www.gutenberg.org/2009/agents/2482
     wikipedia: http://en.wikipedia.org/wiki/John_Cournos
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sologub, Fyodor
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2481
     wikipedia: http://en.wikipedia.org/wiki/Fyodor_Sologub
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7480#The-Created-Legend
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
